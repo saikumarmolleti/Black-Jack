@@ -1,0 +1,24 @@
+* {
+  background-color: darkgreen;
+  text-align: center;
+  font-size: 1.3rem;
+}
+h1 {
+  color: gold;
+  font-family: monospace;
+  font-size: 3rem;
+}
+
+p {
+  color: aliceblue;
+}
+
+button {
+  border-radius: 2px;
+  border-style: none;
+  background-color: gold;
+  color: darkgreen;
+  margin-bottom: 5px;
+  padding: 5px;
+  width: 8rem;
+}
